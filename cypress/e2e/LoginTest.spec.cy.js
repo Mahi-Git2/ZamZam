@@ -1,5 +1,6 @@
 import { LoginPage } from "../Pages/LoginPage.cy"
 const login = new LoginPage()
+//login test
 describe('Login test', () => {
     beforeEach(function(){
    
